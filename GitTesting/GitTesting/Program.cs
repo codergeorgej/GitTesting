@@ -19,6 +19,7 @@ namespace GitTesting
 			Console.WriteLine("Commit7");
 			Console.WriteLine("Commit8");
 			Console.WriteLine("Commit9");
+			Console.WriteLine("Commit 10");
 		}
 	}
 }
